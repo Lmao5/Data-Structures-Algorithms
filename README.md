@@ -1,3 +1,2 @@
 # Data-Structures-Algorithms
-Data Structures &amp; Algorithms Module
-&amp;Practical Files
+Data Structures &amp; Algorithms Module Practical Files
